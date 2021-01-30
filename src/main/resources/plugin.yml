@@ -1,5 +1,5 @@
 name: AntiEndermanGrief
-version: 1.0
+version: 1.1
 main: tools.tgb.AntiEndermanGrief.AntiEndermanGrief
 description: Simple plugin to disable enderman griefing
 api-version: 1.15
